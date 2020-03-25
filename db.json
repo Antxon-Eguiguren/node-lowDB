@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "5ecda4c8-a1ba-4e3b-ac07-9ed337f69549",
+      "nombre": "Botas de Invierno",
+      "precio": 235
+    },
+    {
+      "id": "38d43acd-59c6-443c-b10a-9178de277a26",
+      "nombre": "Sandalias",
+      "precio": 125
+    },
+    {
+      "id": "462b564d-12e0-4969-9f54-c3212c396bce",
+      "nombre": "Botines",
+      "precio": 225
+    },
+    {
+      "id": "8aa0a7bb-97c4-4ebe-9f44-1be671b482ea",
+      "nombre": "Zapatos de Tacón",
+      "precio": 195
+    }
+  ]
+}
